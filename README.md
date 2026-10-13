@@ -1,7 +1,7 @@
-chdarwin here!
-I'm a young aspiring developer. 
-I love rust.
-I use arch, btw.
+chdarwin here!  
+I'm a young aspiring developer.   
+I love rust.  
+I use arch, btw.  
 
 ---
 
